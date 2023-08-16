@@ -21,7 +21,7 @@ locale: en-US
 title: "So Simple"
 description: "A simple Jekyll theme for words and pictures."
 #baseurl: "https://rajaramanwork.so-simple-theme.github.io"
-url: "https://rajaramanwork.so-simple-theme.github.io"
+url: "https://rajaramanwork.github.io"
 logo: "/images/so-simple-site-logo.png"
 date_format: "%B %-d, %Y"
 read_time: true
